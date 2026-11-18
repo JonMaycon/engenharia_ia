@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+chainlit
+httpx
+langchain
+langchain-groq
+python-dotenv
+psycopg2[binary]
+langsmith
